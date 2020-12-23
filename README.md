@@ -1,5 +1,7 @@
 # Introduction To TypeScript
 
+![typescript](https://i2.wp.com/storage.googleapis.com/blog-images-backup/1*KTh3puTlJIF6vAuUUu_LAQ.jpeg?ssl=1)
+
 ## Objectives
 
 - Learn how to create typescript files.
@@ -24,7 +26,7 @@ From [TypeScript Docs](www.typescriptlang.org):
 >
 > Writing types can be optional in TypeScript, because type inference allows you to get a lot of power without writing additional code.
 
-To sum it all up, TypeScript is a tool that provides us with the abilities to build applications while knowing what our data will look like ahead of time. This leads to:
+To sum it all up, TypeScript is a tool that provides us with the abilities to build applications while knowing what our data will look like ahead of time while still being able to write code in Javascript. This leads to:
 
 - **LESS BUGS**
 - **MAINTAINABLE AND SCALABLE CODEBASES**
@@ -47,3 +49,5 @@ Ever since the creation of Javascript, developers have always praised and renoun
 Start by creating an `index.ts` file in the `src` directory that you created when setting up this lesson.
 
 The `.ts` file extension is unique to typescript in the same way that `.js` is to javascript and `.py` is to python.
+
+## Resources
