@@ -228,7 +228,7 @@ Work in your `index.ts` file in the `src` directory:
 
 In this lesson, we learned the basics of TypeScript. We went through setting up a basic TypeScript project, `types` and `interfaces`. Feel free to look inside of the `advTypesaAndClasses.ts` file for more examples of advanced content.
 
-To continue your learning, head on over to this video by Scott Tolinski from `leveluptuts`:
+To continue your learning, head on over to this video by `Academind`:
 [TypeScript Course For Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
 ## Resources
